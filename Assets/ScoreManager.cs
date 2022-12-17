@@ -1,0 +1,41 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+public class ScoreManager : MonoBehaviour
+{
+    public HUD hudScript;
+    //public delegate void LandScaped();
+    //public static event LandScaped GrassCut;
+    
+    private int moneyEarned;
+    
+    // Start is called before the first frame update
+    void Start()
+    {
+      //terrainLandscaped.AddListener(GrassCut);  
+    }
+
+    public void Income()
+    {
+        print("income");
+        moneyEarned += 50;
+        currentEarnings();
+    }
+
+    void currentEarnings()
+    {
+        hudScript.AddIncome(moneyEarned);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    
+    
+    
+    
+}
