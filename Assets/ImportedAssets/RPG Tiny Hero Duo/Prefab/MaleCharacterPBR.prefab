@@ -2365,9 +2365,9 @@ GameObject:
   m_Component:
   - component: {fileID: 8855052669661678444}
   - component: {fileID: 9036980633323257398}
-  - component: {fileID: 2005030487}
   - component: {fileID: 2005030486}
   - component: {fileID: 2005030491}
+  - component: {fileID: 159261014}
   m_Layer: 0
   m_Name: MaleCharacterPBR
   m_TagString: Untagged
@@ -2393,7 +2393,7 @@ Transform:
   - {fileID: 4651028323595200166}
   - {fileID: 4682473949907222776}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &9036980633323257398
 Animator:
@@ -2415,24 +2415,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!143 &2005030487
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8189980434977739222}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 2
-  m_Radius: 0.5
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 1, z: 0}
 --- !u!114 &2005030486
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2457,6 +2439,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bf92bbbbd0d6544ba08272d288dc46f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!143 &159261014
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8189980434977739222}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 2
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 1, z: 0}
 --- !u!1 &8206070634150816031
 GameObject:
   m_ObjectHideFlags: 0

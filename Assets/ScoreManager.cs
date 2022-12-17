@@ -19,7 +19,9 @@ public class ScoreManager : MonoBehaviour
 
     public void Income()
     {
+        print("income");
         moneyEarned += 50;
+        currentEarnings();
     }
 
     void currentEarnings()

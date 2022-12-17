@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2184.7686, g: 2325.871, b: 3478.4492, a: 1}
+  m_IndirectSpecularColor: {r: 2159.876, g: 2264.252, b: 3287.6523, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -143,6 +143,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -234,6 +238,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -382,7 +390,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &29234023
 PrefabInstance:
@@ -392,6 +400,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -489,6 +501,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -586,6 +602,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -683,6 +703,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -792,6 +816,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -889,6 +917,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -980,6 +1012,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -1300,6 +1336,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -1389,42 +1429,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1066638607}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &159261011 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8189980434977739222, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
-    type: 3}
-  m_PrefabInstance: {fileID: 227923731}
-  m_PrefabAsset: {fileID: 0}
---- !u!143 &159261014
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 159261011}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 2
-  m_Radius: 0.5
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 1, z: 0}
---- !u!114 &159261015
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 159261011}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e7511f03b93ab34e8751d80c1c9b09f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &161675088
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1433,6 +1437,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -1524,6 +1532,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -1615,6 +1627,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -1706,6 +1722,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -1797,6 +1817,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2046,11 +2070,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: MaleCharacterPBR
       objectReference: {fileID: 0}
-    - target: {fileID: 8189980434977739222, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8855052669661678444, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
         type: 3}
       propertyPath: m_RootOrder
@@ -2117,6 +2136,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2206,40 +2229,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 448291120}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &252119502 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7229817629626485462, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
-    type: 3}
-  m_PrefabInstance: {fileID: 1861817638}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &252119507
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 252119502}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b10c210c5eda4442bd846b23e2a5eed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!54 &252119508
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 252119502}
-  serializedVersion: 2
-  m_Mass: 0.0000001
-  m_Drag: 0
-  m_AngularDrag: 0
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!4 &285006411 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
@@ -2260,6 +2249,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2351,6 +2344,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2454,6 +2451,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2545,6 +2546,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2654,6 +2659,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2745,6 +2754,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2854,6 +2867,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -2975,6 +2992,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3072,6 +3093,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3163,6 +3188,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3254,6 +3283,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3345,6 +3378,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3442,6 +3479,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3539,6 +3580,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3679,6 +3724,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3770,6 +3819,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3861,6 +3914,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -3952,6 +4009,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4061,6 +4122,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4164,6 +4229,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4267,6 +4336,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4358,6 +4431,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4455,6 +4532,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4570,6 +4651,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4661,6 +4746,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4764,6 +4853,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4855,6 +4948,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -4946,6 +5043,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5037,6 +5138,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5128,6 +5233,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5240,7 +5349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04ff59ba8d59bb34c81704c537428767, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hudScript: {fileID: 0}
+  hudScript: {fileID: 1048481815}
 --- !u!4 &674505440
 Transform:
   m_ObjectHideFlags: 0
@@ -5254,7 +5363,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &682176304 stripped
 Transform:
@@ -5282,6 +5391,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5373,6 +5486,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5476,6 +5593,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5567,6 +5688,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5658,6 +5783,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5749,6 +5878,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5840,6 +5973,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -5943,6 +6080,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6040,6 +6181,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6131,6 +6276,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6240,6 +6389,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6343,6 +6496,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6434,6 +6591,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6555,6 +6716,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6646,6 +6811,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6737,6 +6906,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6846,6 +7019,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -6967,6 +7144,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7056,25 +7237,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1571058177}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &882122931 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4124183919515401716, guid: 9bb4ac498b07a9543836ce30788d8053,
-    type: 3}
-  m_PrefabInstance: {fileID: 1176800205}
-  m_PrefabAsset: {fileID: 0}
---- !u!65 &882122935
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 882122931}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 0.5, z: 1}
-  m_Center: {x: 0, y: 0.3, z: 0}
 --- !u!1001 &890604737
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7083,6 +7245,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7174,6 +7340,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7271,6 +7441,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7362,6 +7536,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7453,6 +7631,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7544,6 +7726,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7635,6 +7821,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7726,6 +7916,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -7925,6 +8119,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8016,6 +8214,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8113,6 +8315,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8204,6 +8410,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8385,7 +8595,7 @@ RectTransform:
   - {fileID: 1984537006}
   - {fileID: 1077201613}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -8412,7 +8622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93dc269021847e84d9ee218d4bf99c63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  incomeText: {fileID: 0}
+  incomeText: {fileID: 1174410536}
 --- !u!1001 &1052890246
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8421,6 +8631,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8518,6 +8732,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8692,6 +8910,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8813,6 +9035,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -8904,6 +9130,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -9158,30 +9388,10 @@ PrefabInstance:
       propertyPath: scoreManagerScript
       value: 
       objectReference: {fileID: 674505439}
-    - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
-      value: 50
-      objectReference: {fileID: 0}
     - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_RootOrder
       value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
@@ -9238,11 +9448,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: nQuad-Plane (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 4124183919515401716, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_TagString
-      value: grass
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
@@ -9278,6 +9483,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -9405,6 +9614,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -9508,6 +9721,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -9617,6 +9834,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -9726,6 +9947,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -9823,6 +10048,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -9920,6 +10149,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10011,6 +10244,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10102,6 +10339,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10193,6 +10434,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10290,6 +10535,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10387,6 +10636,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10478,6 +10731,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10575,6 +10832,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10672,6 +10933,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10763,6 +11028,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10854,6 +11123,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -10945,6 +11218,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11036,6 +11313,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11127,6 +11408,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11218,6 +11503,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11309,6 +11598,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11424,6 +11717,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11515,6 +11812,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11684,6 +11985,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11781,6 +12086,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11872,6 +12181,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -11975,6 +12288,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12072,6 +12389,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12163,6 +12484,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12254,6 +12579,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12345,6 +12674,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12436,30 +12769,14 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
-    - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
-      value: 50
-      objectReference: {fileID: 0}
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_RootOrder
       value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4124183919515401675, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
@@ -12527,6 +12844,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12618,6 +12939,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12709,6 +13034,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12800,6 +13129,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12897,6 +13230,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -12988,6 +13325,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13085,6 +13426,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13176,6 +13521,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13267,6 +13616,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13358,6 +13711,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13449,6 +13806,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13546,6 +13907,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13637,6 +14002,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13746,6 +14115,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13837,6 +14210,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -13928,6 +14305,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -14025,6 +14406,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -14116,6 +14501,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -14429,6 +14818,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -14520,11 +14913,6 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6023375637942290378, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8189980434977739222, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
         type: 3}
       propertyPath: m_Name
@@ -14585,11 +14973,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9036980633323257398, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: c4901d66996082d4088782a99cbe6af9, type: 2}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dfbb63c9cdf7504faf4ff26b0581598, type: 3}
@@ -14601,6 +14984,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -14692,6 +15079,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -14781,65 +15172,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 190603828}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1888531868
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1888531871}
-  - component: {fileID: 1888531870}
-  - component: {fileID: 1888531869}
-  m_Layer: 0
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &1888531869
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1888531868}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1888531870
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1888531868}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e608e67258fe15f45a83c1440b60a9ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scoreManagerScript: {fileID: 0}
---- !u!4 &1888531871
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1888531868}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 23.716, y: 0.895, z: 2.8520362}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1892134466
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14848,6 +15180,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15137,6 +15473,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15246,6 +15586,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15337,6 +15681,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15428,6 +15776,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15543,6 +15895,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15717,6 +16073,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15808,6 +16168,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15899,6 +16263,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -15990,6 +16358,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16081,6 +16453,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16164,54 +16540,6 @@ PrefabInstance:
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
---- !u!1 &2005030485 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8189980434977739222, guid: 2dfbb63c9cdf7504faf4ff26b0581598,
-    type: 3}
-  m_PrefabInstance: {fileID: 1861817638}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2005030486
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2005030485}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e7511f03b93ab34e8751d80c1c9b09f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!143 &2005030487
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2005030485}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 2
-  m_Radius: 0.5
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 1, z: 0}
---- !u!114 &2005030491
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2005030485}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9bf92bbbbd0d6544ba08272d288dc46f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2013410473
 GameObject:
   m_ObjectHideFlags: 1
@@ -16268,6 +16596,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16371,6 +16703,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16462,6 +16798,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16553,6 +16893,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16644,6 +16988,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16741,6 +17089,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16832,6 +17184,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -16941,6 +17297,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value
@@ -17038,6 +17398,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1916388906}
     m_Modifications:
+    - target: {fileID: 882122939, guid: 9bb4ac498b07a9543836ce30788d8053, type: 3}
+      propertyPath: scoreManagerScript
+      value: 
+      objectReference: {fileID: 674505439}
     - target: {fileID: 4124183919515401674, guid: 9bb4ac498b07a9543836ce30788d8053,
         type: 3}
       propertyPath: m_PropertySheet.m_Int.m_Array.Array.data[0].m_Value

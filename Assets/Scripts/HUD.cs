@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class HUD : MonoBehaviour
 {
-    public TextMeshPro incomeText;
+    public TextMeshProUGUI incomeText;
     
     // Start is called before the first frame update
     void Start()
