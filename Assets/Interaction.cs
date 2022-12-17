@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class Interaction : MonoBehaviour
 {
+    public ScoreManager scoreManagerScript;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +22,10 @@ public class Interaction : MonoBehaviour
     {
         var scaleChange = new Vector3(gameObject.transform.localScale.x, gameObject.transform.localScale.y/2, gameObject.transform.localScale.z);
         gameObject.transform.localScale = scaleChange;
+        scoreManagerScript.Income();
     }
+    
+    
     
     private void OnTriggerEnter(Collider other)
     {
