@@ -21,8 +21,10 @@ public class Interaction : MonoBehaviour
 
     public void CutDown()
     {
-        var scaleChange = new Vector3(gameObject.transform.localScale.x, gameObject.transform.localScale.y/2, gameObject.transform.localScale.z);
-        gameObject.transform.localScale = scaleChange;
+        var localScale = gameObject.transform.localScale;
+        var scaleChange = new Vector3(localScale.x, localScale.y-2.8f, localScale.z);
+        localScale = scaleChange;
+        gameObject.transform.localScale = localScale;
         DisableCollider();
         scoreManagerScript.Income();
 
