@@ -2439,6 +2439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9bf92bbbbd0d6544ba08272d288dc46f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  weapon: {fileID: 6023375637942290378}
 --- !u!143 &159261014
 CharacterController:
   m_ObjectHideFlags: 0
@@ -2821,12 +2822,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8800017975809857519, guid: 9fbe61d1f4bc091439f25f985dd189a5,
         type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800017975809857519, guid: 9fbe61d1f4bc091439f25f985dd189a5,
+        type: 3}
       propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 9fbe61d1f4bc091439f25f985dd189a5, type: 3}
+--- !u!65 &6023375637942290378 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 8800017975809857519, guid: 9fbe61d1f4bc091439f25f985dd189a5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2992823937558646821}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &7229817629626485462 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5610884078883986163, guid: 9fbe61d1f4bc091439f25f985dd189a5,
