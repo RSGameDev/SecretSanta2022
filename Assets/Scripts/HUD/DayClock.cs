@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class DayClock : MonoBehaviour
 {
+    public DayOfWeek dayOfWeekScript;
     public TextMeshProUGUI clock;
     private float clockTime = 0.0f;
     
@@ -21,7 +22,7 @@ public class DayClock : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        clockTime += Time.deltaTime * 15f;
+        clockTime += Time.deltaTime * 45f;
         DisplayTime();
     }
 
@@ -47,9 +48,16 @@ public class DayClock : MonoBehaviour
                 clockTime = 0;
                 minutes = 0;
                 hours++;
+                if (hours == 17)
+                {
+                    dayOfWeekScript.CurrentDay();
+                    hours = 9;
+                }
             }
         }
         
         clock.text = hours.ToString("00") + ":" + minutes.ToString("00");
+
+        
     }
 }
