@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2161.165, g: 2265.295, b: 3288.4922, a: 1}
+  m_IndirectSpecularColor: {r: 2180.4639, g: 2366.7578, b: 3679.6484, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -8516,6 +8516,7 @@ GameObject:
   - component: {fileID: 1048481810}
   - component: {fileID: 1048481814}
   - component: {fileID: 1048481815}
+  - component: {fileID: 1048481816}
   m_Layer: 5
   m_Name: Canvas HUD
   m_TagString: Untagged
@@ -8628,6 +8629,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   incomeText: {fileID: 1174410536}
+--- !u!114 &1048481816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1048481809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c80c7103f0fca34080a6b639f62880b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clock: {fileID: 194924934}
 --- !u!1001 &1052890246
 PrefabInstance:
   m_ObjectHideFlags: 0
