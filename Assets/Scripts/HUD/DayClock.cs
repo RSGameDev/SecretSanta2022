@@ -22,7 +22,7 @@ public class DayClock : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        clockTime += Time.deltaTime * 45f;
+        clockTime += Time.deltaTime * 15f;
         DisplayTime();
     }
 

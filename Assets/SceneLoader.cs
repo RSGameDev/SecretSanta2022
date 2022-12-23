@@ -24,10 +24,7 @@ public class SceneLoader : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // if (SceneManager.GetActiveScene().buildIndex != 0)
-        // {
-        //     Time.timeScale = 0f;
-        // }
+        
     }
 
     void UnPause()
@@ -38,16 +35,11 @@ public class SceneLoader : MonoBehaviour
     public void StartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
-        Time.timeScale = 0f;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.J))
-        {
-            UnPause();
-        }
     }
     
     

@@ -20,7 +20,7 @@ public class ScoreManager : MonoBehaviour
     public void Income()
     {
         print("income");
-        moneyEarned += 50;
+        moneyEarned += 5;
         currentEarnings();
     }
 
