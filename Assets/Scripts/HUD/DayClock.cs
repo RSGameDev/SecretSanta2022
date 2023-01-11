@@ -28,7 +28,7 @@ public class DayClock : MonoBehaviour
 
     private void DisplayTime()
     {
-        print(clockTime);
+//        print(clockTime);
         if (clockTime is >= 0 and < 15)
         {
             hasAddHour = false;

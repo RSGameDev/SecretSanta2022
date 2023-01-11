@@ -2,11 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class Dialogue : MonoBehaviour
+[CreateAssetMenu(fileName = "NewDialogue", menuName = "Dialogue/Display")] 
+public class Dialogue : ScriptableObject
 {
-    public TextMeshProUGUI dialogueField;
-    private string dialogue;
+    public string message;
     
     // Start is called before the first frame update
     void Start()
@@ -16,11 +17,6 @@ public class Dialogue : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-        
-    }
-
-    void DialogueToDisplay()
     {
         
     }
