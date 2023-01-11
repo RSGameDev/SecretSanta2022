@@ -8,7 +8,7 @@ public class DayClock : MonoBehaviour
 {
     public DayOfWeek dayOfWeekScript;
     public TextMeshProUGUI clock;
-    private float clockTime = 0.0f;
+    private double clockTime = 0.0f;
     
     int hours = 9;
     int minutes = 00;
@@ -22,25 +22,26 @@ public class DayClock : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        clockTime += Time.deltaTime * 25f;
+        print(clockTime);
+        clockTime += Time.deltaTime;
         DisplayTime();
     }
 
     private void DisplayTime()
     {
-//        print(clockTime);
-        if (clockTime is >= 0 and < 15)
+        //Time set to a 2 minute playtime, for the level.
+        if (clockTime is >= 0 and < 3.75)
         {
             hasAddHour = false;
             minutes = 0;
         }
-        else if (clockTime is >= 15 and <= 30)
+        else if (clockTime is >= 3.75 and <= 7.5)
             minutes = 15;
-        else if (clockTime is >= 30 and <= 45)
+        else if (clockTime is >= 7.5 and <= 11.25)
             minutes = 30;
-        else if (clockTime is >= 45 and <= 60)
+        else if (clockTime is >= 11.25 and <= 15)
             minutes = 45;
-        else if (clockTime is >= 60)
+        else if (clockTime is >= 15)
         {
             if (!hasAddHour)
             {
